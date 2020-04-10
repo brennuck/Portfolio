@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.JPG',
+  img: 'profile.jpg',
   paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to get what I wanted - From accessing my computer's terminal to add more time to my screen limit to jailbreaking a Nintendo Wii. Now, I’m more excited than ever to grow my hacking skills professionally in web development.`,
   paragraphTwo: '',
   paragraphThree:
