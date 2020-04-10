@@ -19,8 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.JPG',
   paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to get what I wanted - From accessing my computer's terminal to add more time to my screen limit to jailbreaking a Nintendo Wii. Now, I’m more excited than ever to grow my hacking skills professionally in web development.`,
-  paragraphTwo:
-    'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | Git | GitHub | React | Redux | Node | Express | Netlify | Heroku | PostgreSQL | Python',
+  paragraphTwo: '',
   paragraphThree:
     'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | Git | GitHub | React | Redux | Node | Express | Netlify | Heroku | PostgreSQL | Python',
   resume: 'https://drive.google.com/file/d/1FVIQxgJARWO9i_shOWSgIfTWCfmax0KC/view?usp=sharing', // if no resume, the button will not show up
