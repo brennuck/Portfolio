@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree:
     'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | Git | GitHub | React | Redux | Node | Express | Netlify | Heroku | PostgreSQL | Python',
-  resume: 'https://drive.google.com/file/d/1FVIQxgJARWO9i_shOWSgIfTWCfmax0KC/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1n2WIqOsgOXQcdDWXhR0W21uY2RlFU0Ye/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
