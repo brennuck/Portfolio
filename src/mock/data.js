@@ -18,9 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to get what I wanted—from accessing my computer’s terminal to add more time to my screen limit to jailbreaking a Nintendo Wii.`,
-  paragraphTwo:
-    'Years later, after becoming the head chef at Panda Express at 19 years old, I began searching for a career more aligned with my passions. It was then that I found Lambda. Now, I’m more excited than ever to grow my hacking skills professionally in web development.',
+  paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to achieve formerly impossible goals—from accessing my computer’s terminal to add more time to my screen limit to jailbreaking a Nintendo Wii.`,
+  paragraphTwo: `Years later, after becoming the head chef at Panda Express at 19 years old, I began searching for a career more aligned with my passions. It was then that I found Lambda School's Full Stack Web Development program. Now, I’m a Full Stack Web Dev with many fully-fledged web apps under my belt, and I'm ready to take on my next challenge.`,
   paragraphThree:
     'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | Git | GitHub | React | Redux | Node | Express | Netlify | Heroku | PostgreSQL | Python',
   resume: 'https://drive.google.com/file/d/1n2WIqOsgOXQcdDWXhR0W21uY2RlFU0Ye/view?usp=sharing', // if no resume, the button will not show up
