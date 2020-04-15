@@ -12,7 +12,7 @@ export const heroData = {
   title: '',
   name: 'Brennon Nuckols',
   subtitle: `Full Stack Web Developer`,
-  cta: '',
+  cta: 'Learn more',
 };
 
 // ABOUT DATA
