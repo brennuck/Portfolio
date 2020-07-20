@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'Smile.jpeg',
   paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to achieve formerly impossible goals—from accessing my computer’s terminal to add more time to my screen limit to jailbreaking a Nintendo Wii.`,
   paragraphTwo: `Years later, after becoming the head chef at Panda Express at 19 years old, I began searching for a career more aligned with my passions. It was then that I found Lambda School's Full Stack Web Development program. Now, I’m a Full Stack Web Dev with many fully-fledged web apps under my belt, and I'm ready to take on my next challenge.`,
   paragraphThree:
@@ -44,7 +44,7 @@ export const projectsData = [
     title: 'Dad Jokes',
     info: `Dad Jokes is a web application that allows users to post and read “dad” jokes.`,
     info2: `Collaborated on a 5 person team to create the application in 4 days. Solely responsible for the backend of the project`,
-    url: 'https://dad-jokes-bw.herokuapp.com/',
+    url: 'https://github.com/build-dad-jokes/back_end',
     repo: 'https://github.com/build-dad-jokes/back_end', // if no repo, the button will not show up
   },
   {
@@ -52,10 +52,9 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Party Planner',
     info: `Party Planner is a web application that allows the user to plan parties.`,
-    info2:
-      'Collaborated with a 5 person team to create this application in 1 week. Solely responsible for the front end of the project.',
-    url: '',
-    repo: 'https://github.com/party-planner-bw/bw-april-SG2--partyPlanner-FE', // if no repo, the button will not show up
+    info2: 'Solely responsible for everything on the project, from ideation to development.',
+    url: 'https://bn-party-planner-frontend.vercel.app/',
+    repo: 'https://github.com/Brennon-Party-Planner', // if no repo, the button will not show up
   },
 ];
 
