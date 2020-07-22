@@ -40,21 +40,21 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'party1.png',
+    title: 'Party Planner',
+    info: `Party Planner is a web application that allows the user to plan parties.`,
+    info2: 'Solely responsible for everything on the project, from ideation to development.',
+    url: 'https://bn-party-planner-frontend.vercel.app/',
+    repo: 'https://github.com/Brennon-Party-Planner', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'jokes.png',
     title: 'Dad Jokes',
     info: `Dad Jokes is a web application that allows users to post and read “dad” jokes.`,
     info2: `Collaborated on a 5 person team to create the application in 4 days. Solely responsible for the backend of the project`,
     url: 'https://github.com/build-dad-jokes/back_end',
     repo: 'https://github.com/build-dad-jokes/back_end', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'project.jpg',
-    title: 'Party Planner',
-    info: `Party Planner is a web application that allows the user to plan parties.`,
-    info2: 'Solely responsible for everything on the project, from ideation to development.',
-    url: 'https://bn-party-planner-frontend.vercel.app/',
-    repo: 'https://github.com/Brennon-Party-Planner', // if no repo, the button will not show up
   },
 ];
 
