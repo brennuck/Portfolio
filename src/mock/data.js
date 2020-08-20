@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Brennon Nuckols',
-  subtitle: `Full Stack Web Developer`,
+  subtitle: `Software Engineer`,
   cta: 'Learn more',
 };
 
@@ -29,6 +29,26 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'party1.png',
+    title: 'Party Planner',
+    info: `Party Planner is a web application that allows the user to plan parties.`,
+    info2: 'Solely responsible for everything on the project, from ideation to development.',
+    url: 'https://bn-party-planner-frontend.vercel.app/',
+    repo: 'https://github.com/Brennon-Party-Planner', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'covid-map.png',
+    title: 'Covid-19 Tracker',
+    info:
+      'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
+    info2:
+      'Solely responsible for everything on project, created in 1 day.',
+    url: 'https://covid-map-omega.vercel.app/',
+    repo: 'https://github.com/brennuck/Covid_Map/tree/master/front-end', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Brav.png',
     title: 'Brāv',
     info:
@@ -37,15 +57,6 @@ export const projectsData = [
       'Collaborated with a 9 person cross-discipline team to create the web and mobile application in 8 weeks.',
     url: 'https://www.beabravone.com/',
     repo: 'https://github.com/labs14-brav', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'party1.png',
-    title: 'Party Planner',
-    info: `Party Planner is a web application that allows the user to plan parties.`,
-    info2: 'Solely responsible for everything on the project, from ideation to development.',
-    url: 'https://bn-party-planner-frontend.vercel.app/',
-    repo: 'https://github.com/Brennon-Party-Planner', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
