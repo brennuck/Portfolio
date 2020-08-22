@@ -43,7 +43,7 @@ export const projectsData = [
     info:
       'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
     info2:
-      'Solely responsible for everything on project, created in 1 day.',
+      'I created this project in a few hours.',
     url: 'https://covid-map-omega.vercel.app/',
     repo: 'https://github.com/brennuck/Covid_Map/tree/master/front-end', // if no repo, the button will not show up
   },
