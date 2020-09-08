@@ -40,16 +40,14 @@ export const projectsData = [
     id: uuidv1(),
     img: 'covid-map.png',
     title: 'Covid-19 Tracker',
-    info:
-      'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
-    info2:
-      'I created this project in a few hours.',
+    info: 'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
+    info2: 'I created this project in a few hours.',
     url: 'https://covid-map-omega.vercel.app/',
     repo: 'https://github.com/brennuck/Covid_Map/tree/master/front-end', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
-    img: 'Brav.png',
+    img: 'show_brav.png',
     title: 'Brāv',
     info:
       'Brāv is an online mediation platform for non-violent conflict resolution. It facilitates a new way to solve problems, large and small.',
