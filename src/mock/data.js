@@ -38,7 +38,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'img2txt2.png',
+    img: 'img2text2.png',
     title: 'IMG 2 TEXT',
     info: 'Img 2 Text is a web application that allows users to convert an image into text',
     url: 'https://covid-map-omega.vercel.app/',
