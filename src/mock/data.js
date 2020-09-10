@@ -38,12 +38,20 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'covid-map.png',
-    title: 'Covid-19 Tracker',
-    info: 'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
+    img: 'img2txt.png',
+    title: 'IMG 2 TEXT',
+    info: 'Img 2 Text is a web application that allows users to convert an image into text',
     info2: 'I created this project in a few hours.',
     url: 'https://covid-map-omega.vercel.app/',
     repo: 'https://github.com/brennuck/Covid_Map/tree/master/front-end', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'covid-map.png',
+    title: 'Covid-19 Tracker',
+    info: 'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
+    url: 'https://image-text-converter.vercel.app/',
+    repo: 'https://github.com/brennuck/ImageTextConverter/tree/master/image_txt', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
