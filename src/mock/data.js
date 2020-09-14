@@ -40,7 +40,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'img2text2.png',
     title: 'IMG 2 TEXT',
-    info: 'Img 2 Text is a web application that allows users to convert an image into text',
+    info: 'Img 2 Text is a web application that allows users to convert an image into text.',
     url: 'https://image-text-converter.vercel.app/',
     repo: 'https://github.com/brennuck/ImageTextConverter/tree/master/image_txt', // if no repo, the button will not show up
   },
