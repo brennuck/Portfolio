@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'covid-map.png',
-    title: 'Covid-19 Tracker',
-    info: 'Covid-19 Tracker is a web application that shows Covid statitics for each country.',
-    info2: 'I created this project in a few hours.',
-    url: 'https://covid-map-omega.vercel.app/',
-    repo: 'https://github.com/brennuck/Covid_Map/tree/master/front-end', // if no repo, the button will not show up
+    img: 'novel.png',
+    title: 'Novel Exploration',
+    info:
+      "Novel Exploration is a web application that let's users search for books by entering a query. Display's the resulting books with all the corresponding data.",
+    url: 'https://novel-exploration.vercel.app/',
+    repo: 'https://github.com/brennuck/Novel-Exploration/tree/master/novel-exploration', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
