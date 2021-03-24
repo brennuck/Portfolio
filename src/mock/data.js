@@ -21,12 +21,29 @@ export const aboutData = {
   paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to achieve formerly impossible goals—from accessing my computer’s terminal to add more time to my screen limit to jailbreaking a Nintendo Wii.`,
   paragraphTwo: `Years later, after becoming the head chef at Panda Express at 19 years old, I began searching for a career more aligned with my passions. It was then that I found Lambda School's Full Stack Web Development program. Now, I’m a Full Stack Web Dev with many fully-fledged web apps under my belt, and I'm ready to take on my next challenge.`,
   paragraphThree:
-    'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | Git | GitHub | React | Redux | Node | Express | Netlify | Heroku | PostgreSQL | Python | AWS | DynamoDB | GraphQL',
-  resume: 'https://drive.google.com/file/d/1FZfescPJ3JyHEo3U6DZYdhibUqgBBFom/view?usp=sharing', // if no resume, the button will not show up
+    'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | Git | GitHub | React | Redux | Node | Express | Netlify | Heroku | PostgreSQL | Python | AWS | DynamoDB | GraphQL | MongoDB',
+  resume: 'https://drive.google.com/file/d/12WuWMbmfmtzQ8F_Ea_iRpKYVrtvkelxL/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: uuidv1(),
+    img: 'FundStory.png',
+    title: 'FundStory',
+    info: `FundStory is a web application that helps founders: connect to capital, understand costs, and manage into maturity.`,
+    info2:
+      'Collaborating on a 3 person team to help facilitate non-dilutive capital access to founders around the world.',
+    url: 'https://www.fundstory.com/',
+  },
+  {
+    id: uuidv1(),
+    img: 'CRM.png',
+    title: 'Lender CRM',
+    info: `Lender CRM is a sister web application to FundStory for lenders.`,
+    info2: 'Allows lenders to send prequalifications etc.',
+    url: 'https://partner.fundstory.com/',
+  },
   {
     id: uuidv1(),
     img: 'party1.png',
