@@ -63,6 +63,14 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'tac.png',
+    title: 'Tic Tac Toe',
+    info: 'Created my tic-tac-toe game in an afternoon.',
+    url: 'https://tic-tac-toe-nuckols.vercel.app/',
+    repo: 'https://github.com/brennuck/tic-tac-toe', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'novel.png',
     title: 'Novel Exploration',
     info:
