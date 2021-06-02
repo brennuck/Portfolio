@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'new.jpg',
-  paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to achieve formerly impossible goals—from accessing my computer’s terminal to add more time to my screen limit to jailbreaking a Nintendo Wii.`,
-  paragraphTwo: `Years later, after becoming the head chef at Panda Express at 19 years old, I began searching for a career more aligned with my passions. It was then that I found Lambda School's Full Stack Web Development program. Now, I’m a Full Stack Software Engineer with many fully-fledged web apps and over 6 months of professional experience under my belt, and I'm ready to take on my next challenge.`,
+  paragraphOne: `Since I was a kid, I’ve been obsessed with computers. I grew up using hacking as a tool to achieve formerly impossible goals—from accessing my computer’s terminal to add more time to my screen limit to jailbreaking a Nintendo Wii. Years later, after becoming the head chef at Panda Express at 19 years old, I began searching for a career more aligned with my passions. It was then that I found Lambda School's Full Stack Web Development program.`,
+  paragraphTwo: `Now, I’m a Full Stack Software Engineer with many fully-fledged web apps and over 5 months of professional experience under my belt, and I'm ready to take on my next challenge.`,
   paragraphThree:
     'Skills: HTML | CSS | LESS | Sass | Styled Components | JavaScript | React | Redux | Node | Express | Python | Git | GitHub | Netlify | Heroku | PostgreSQL | Python | AWS | DynamoDB | GraphQL | MongoDB',
   resume: 'https://drive.google.com/file/d/12WuWMbmfmtzQ8F_Ea_iRpKYVrtvkelxL/view?usp=sharing', // if no resume, the button will not show up
